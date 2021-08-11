@@ -1,5 +1,13 @@
-# SageMaker Deployment Project
+# AWS SageMaker Deployment Project
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+In this project we are mainly learning how to use sagemaker, we built a single-layer recurrent neural network, using pytorch, for the purpose of determining the sentiment of a movie review using the IMDB data set. The deployment of the model is done using Amazon's SageMaker platform. In addition, we will be deploying the model and construct a simple web app which will interact with the deployed model.
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+A negative review
+![negative](https://user-images.githubusercontent.com/51749063/129011067-4f58754f-75c7-4ca7-9e2e-8b6975f72ae9.png)
+
+A positive review
+![positive](https://user-images.githubusercontent.com/51749063/129011120-51a01696-0cd3-45a0-9b3d-553161799940.png)
+
+
+
+

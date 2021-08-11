@@ -4,7 +4,7 @@ In this project we are mainly learning how to use sagemaker, we built a single-l
 
 Unfortunately, API Endpoints are bit too pricey for me to keep the site up, so below you can see pictures of the site with two reviews :)
 
-**Make sure to shutdown endpoints, they are paid for per hour!
+**Make sure to shutdown endpoints, they are paid for per hour! **
 
 A negative review
 ![negative](https://user-images.githubusercontent.com/51749063/129011067-4f58754f-75c7-4ca7-9e2e-8b6975f72ae9.png)
